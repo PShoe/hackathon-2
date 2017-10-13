@@ -71,7 +71,7 @@ body, h1, h2, h3, h4, h5, h6 {
   font-size: 400%;
   position: absolute;
   top: 400px;
-  left:290px;
+  left: 350px;
 }
 .intro-social-buttons i {
   font-size: 80%;
@@ -128,7 +128,7 @@ footer p {
   display:flex;
 }
 .map-details {
-  padding-top: 380px;
+  padding-top: 270px;
   padding-left: 20px;
 }
 .map {
@@ -137,6 +137,7 @@ footer p {
 }
 .section-heading {
   margin-bottom: 30px;
+  color: #00807c;
 }
 
 .section-heading-spacer {
@@ -318,3 +319,13 @@ p.copyright {
  .form-style-1 .required{
     color:red;
  }
+ .joke {
+  margin: 0 auto;
+  width:90%;
+  text-align:center;
+  margin-top:10px;
+  border:4px solid #23241F
+}
+.joke img {
+    width:100%;
+}
